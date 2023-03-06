@@ -1,0 +1,15 @@
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\bin\Debug\net6.0\Homework1.Task1.RealCalculator.exe
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\bin\Debug\net6.0\Homework1.Task1.RealCalculator.deps.json
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\bin\Debug\net6.0\Homework1.Task1.RealCalculator.runtimeconfig.json
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\bin\Debug\net6.0\Homework1.Task1.RealCalculator.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\bin\Debug\net6.0\Homework1.Task1.RealCalculator.pdb
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\Homework1.Task1.RealCalculator.csproj.AssemblyReference.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\Homework1.Task1.RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\Homework1.Task1.RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\Homework1.Task1.RealCalculator.AssemblyInfo.cs
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\Homework1.Task1.RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\Homework1.Task1.RealCalculator.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\refint\Homework1.Task1.RealCalculator.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\Homework1.Task1.RealCalculator.pdb
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\Homework1.Task1.RealCalculator.genruntimeconfig.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework1\Homework1.Task1\Homework1.Task1.RealCalculator\obj\Debug\net6.0\ref\Homework1.Task1.RealCalculator.dll
