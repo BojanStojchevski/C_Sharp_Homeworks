@@ -1,0 +1,15 @@
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\bin\Debug\net6.0\Homework2.SumOfEven.exe
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\bin\Debug\net6.0\Homework2.SumOfEven.deps.json
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\bin\Debug\net6.0\Homework2.SumOfEven.runtimeconfig.json
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\bin\Debug\net6.0\Homework2.SumOfEven.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\bin\Debug\net6.0\Homework2.SumOfEven.pdb
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\Homework2.SumOfEven.csproj.AssemblyReference.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\Homework2.SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\Homework2.SumOfEven.AssemblyInfoInputs.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\Homework2.SumOfEven.AssemblyInfo.cs
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\Homework2.SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\Homework2.SumOfEven.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\refint\Homework2.SumOfEven.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\Homework2.SumOfEven.pdb
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\Homework2.SumOfEven.genruntimeconfig.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework2\Homework2.SumOfEven\obj\Debug\net6.0\ref\Homework2.SumOfEven.dll

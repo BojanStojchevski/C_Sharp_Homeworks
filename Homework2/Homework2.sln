@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2.SumOfEven", "Homework2.SumOfEven\Homework2.SumOfEven.csproj", "{459B12E2-E2D0-4469-BF19-BD8D0EFF3E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2.StudentGroup", "Homework2.StudentGroup\Homework2.StudentGroup.csproj", "{8EDBD6B9-723C-48F9-B574-39925B327467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459B12E2-E2D0-4469-BF19-BD8D0EFF3E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459B12E2-E2D0-4469-BF19-BD8D0EFF3E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459B12E2-E2D0-4469-BF19-BD8D0EFF3E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459B12E2-E2D0-4469-BF19-BD8D0EFF3E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDBD6B9-723C-48F9-B574-39925B327467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDBD6B9-723C-48F9-B574-39925B327467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDBD6B9-723C-48F9-B574-39925B327467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDBD6B9-723C-48F9-B574-39925B327467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8EE17D1-30B8-4515-A365-E50DABDE79E3}
+	EndGlobalSection
+EndGlobal
