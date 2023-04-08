@@ -13,3 +13,18 @@ C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\
 C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.pdb
 C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.genruntimeconfig.cache
 C:\Users\Puncher\Desktop\s e a v u s\3. D o t . N e t\1. C# B a s i c\Homewroks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\ref\Homework3.Class04.Tasks.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\bin\Debug\net6.0\Homework3.Class04.Tasks.exe
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\bin\Debug\net6.0\Homework3.Class04.Tasks.deps.json
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\bin\Debug\net6.0\Homework3.Class04.Tasks.runtimeconfig.json
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\bin\Debug\net6.0\Homework3.Class04.Tasks.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\bin\Debug\net6.0\Homework3.Class04.Tasks.pdb
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.csproj.AssemblyReference.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.AssemblyInfoInputs.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.AssemblyInfo.cs
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\refint\Homework3.Class04.Tasks.dll
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.pdb
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\Homework3.Class04.Tasks.genruntimeconfig.cache
+C:\Users\Puncher\Desktop\s e a v u s\3. C# Sharp --------B a s i c\Homeworks\C_Sharp_Homeworks\Homework3\Homework3.Class04.Tasks\obj\Debug\net6.0\ref\Homework3.Class04.Tasks.dll
