@@ -1,42 +1,45 @@
-﻿using Home5.Model;
+﻿using Homework4.Task2.Model;
 using System;
+using System.Reflection.Emit;
 using System.Runtime.ConstrainedExecution;
+using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace Home5
 {
     internal class Program
     {
+
+//         - Make a class Driver. Add properties: Name, Level
+//         - Make a class Car. Add properties: Model, Speed and Driver
+//         - Make a method of the Car class called : CalculateSpeed() that takes a driver object and calculates the skill multiplied by the speed of the car and return it as a result.
+//         - Make a method RaceCars() that will get two Car objects that will determine which car will win and print the result in the console.
+//         - Make 4 car objects and 4 driver objects.
+//         - Ask the user to select a two cars and two drivers for the cars. Add the drivers to the cars and call the RaceCars() methods
+
         static void Main(string[] args)
         {
-
-            
-                //Prviot Del od Zadacata
                 Car car1 = new Car();
-                car1.Model = "Bmw";
-                car1.Speed = 150;
-                car1.Driver = new Driver { Name = "Bojan", Level = 2 };
-                int speed = car1.CalculateSpeed(car1.Driver);
+                    car1.Model = "Bmw";
+                    car1.Speed = 150;
+                    car1.Driver = new Driver { Name = "Bojan", Level = 4 };
+                    int skill = car1.CalculateSpeed(car1.Driver);
 
                 Car car2 = new Car();
-                car2.Model = "Mercedes";
-                car2.Speed = 180;
-                car2.Driver = new Driver { Name = "Dragan", Level = 3 };
+                    car2.Model = "Mercedes";
+                    car2.Speed = 180;
+                    car2.Driver = new Driver { Name = "Dragan", Level = 5 };
 
-                RaceCars(car1, car2);
+                    RaceCars(car1, car2);
 
-                //Make a method RaceCars() that will get two Car objects
-                //that will determine which car will win and print
-                //the result in the console.
-                //RaceCars(car1, car2);
-
-
-                //OVOJ DEL E OD 5TA TOCKA OD ZADACATA PA NADOLE
-                //Make 4 car objects
-                Car car11 = new Car { Model = "Hyundai", Speed = 180 };
-                Car car22 = new Car { Model = "Mazda", Speed = 200 };
-                Car car33 = new Car { Model = "Ferrari", Speed = 160 };
-                Car car44 = new Car { Model = "Porsche", Speed = 150 };
-                //Make 4 driver objects.
+                
+            //Make 4 car objects
+                Car car11 = new Car { Model = "Hyundai", Speed = 150 };
+                Car car22 = new Car { Model = "Mazda", Speed = 170 };
+                Car car33 = new Car { Model = "Ferrari", Speed = 280 };
+                Car car44 = new Car { Model = "Porsche", Speed = 250 };
+                
+            //Make 4 driver objects.
                 Driver driver1 = new Driver { Name = "Bojan", Level = 3 };
                 Driver driver2 = new Driver { Name = "Zoran", Level = 4 };
                 Driver driver3 = new Driver { Name = "Goran", Level = 2 };
@@ -45,11 +48,12 @@ namespace Home5
 
                 //Ask the user to select a two cars and two drivers for the cars.
                 //Add the drivers to the cars and call the RaceCars() methods
-                Car kolaPrva = new Car(); //prazna kola 1
-                Car kolaVtora = new Car();//prazna kola 2
+                
+            Car firstCar = new Car(); //prazna kola 1
+            Car secondCar = new Car();//prazna kola 2
 
-                Driver driverPrv = new Driver();
-                Driver driverVtor = new Driver();
+            Driver firstDriver = new Driver();
+            Driver secondDriver = new Driver();
 
                 while (true)
                 {
@@ -62,27 +66,29 @@ namespace Home5
                     Console.WriteLine("2-Mazda");
                     Console.WriteLine("3-Ferrari");
                     Console.WriteLine("4-Porsche");
-                    int izbranaKolaPrva = int.Parse(Console.ReadLine());
-                    if (izbranaKolaPrva == 1)
+                    
+                    int chosenFirstCar = int.Parse(Console.ReadLine());
+                    if (chosenFirstCar == 1)
                     {
-                        kolaPrva = car11;
+                        firstCar = car11;
                     }
-                    else if (izbranaKolaPrva == 2)
+                    else if (chosenFirstCar == 2)
                     {
-                        kolaPrva = car22;
+                        firstCar = car22;
                     }
-                    else if (izbranaKolaPrva == 3)
+                    else if (chosenFirstCar == 3)
                     {
-                        kolaPrva = car33;
+                        firstCar = car33;
                     }
-                    else if (izbranaKolaPrva == 4)
+                    else if (chosenFirstCar == 4)
                     {
-                        kolaPrva = car44;
+                        firstCar = car44;
                     }
                     else
                     {
                         Console.WriteLine("Izbravte nepostoecka kola");
                     }
+
                     Console.WriteLine("Choose Driver 1:");
                     Console.WriteLine("1-Bojan");
                     Console.WriteLine("2-Zoran");
@@ -91,19 +97,19 @@ namespace Home5
                     int izbrannSoferPrv = int.Parse(Console.ReadLine());
                     if (izbrannSoferPrv == 1)
                     {
-                        driverPrv = driver1;
+                        firstDriver = driver1;
                     }
                     else if (izbrannSoferPrv == 2)
                     {
-                        driverPrv = driver2;
+                        firstDriver = driver2;
                     }
                     else if (izbrannSoferPrv == 3)
                     {
-                        driverPrv = driver3;
+                        firstDriver = driver3;
                     }
                     else if (izbrannSoferPrv == 4)
                     {
-                        driverPrv = driver4;
+                        firstDriver = driver4;
                     }
                     else
                     {
@@ -119,19 +125,19 @@ namespace Home5
 
                     if (izbranaKolaVtora == 1)
                     {
-                        kolaVtora = car11;
+                        secondCar = car11;
                     }
                     else if (izbranaKolaVtora == 2)
                     {
-                        kolaVtora = car22;
+                        secondCar = car22;
                     }
                     else if (izbranaKolaVtora == 3)
                     {
-                        kolaVtora = car33;
+                        secondCar = car33;
                     }
                     else if (izbranaKolaVtora == 4)
                     {
-                        kolaVtora = car44;
+                        secondCar = car44;
                     }
                     else
                     {
@@ -146,19 +152,19 @@ namespace Home5
                     int izbrannSoferVtor = int.Parse(Console.ReadLine());
                     if (izbrannSoferVtor == 1)
                     {
-                        driverVtor = driver1;
+                        secondDriver = driver1;
                     }
                     else if (izbrannSoferVtor == 2)
                     {
-                        driverVtor = driver2;
+                        secondDriver = driver2;
                     }
                     else if (izbrannSoferVtor == 3)
                     {
-                        driverVtor = driver3;
+                        secondDriver = driver3;
                     }
                     else if (izbrannSoferVtor == 4)
                     {
-                        driverVtor = driver4;
+                        secondDriver = driver4;
                     }
                     else
                     {
@@ -166,26 +172,26 @@ namespace Home5
                     }
 
                     //Add Driver in Car
-                    kolaPrva.Driver = driverPrv;
-                    kolaVtora.Driver = driverVtor;
+                    firstCar.Driver = firstDriver;
+                    secondCar.Driver = secondDriver;
 
-                    if (driverPrv == driverVtor)
+                    if (firstDriver == secondDriver)
                     {
                         Console.WriteLine("DriverPri treba da e razlicen od DriverVtior");
                     }
-                    else if (kolaPrva == kolaVtora)
+                    else if (firstCar == secondCar)
                     {
                         Console.WriteLine("Kola prva ne moze da bide enakva so koa vtora");
                     }
                     else
                     {
-                        RaceCars(kolaPrva, kolaVtora);
-                    }
+                        RaceCars(firstCar, secondCar);
+                    }   
 
 
                 }catch (Exception ex) 
                 {
-                    Console.WriteLine("greska " +ex.Message);
+                    Console.WriteLine("Error: " +ex.Message);
                 }
 
                     Console.ReadLine();
@@ -200,8 +206,6 @@ namespace Home5
         {
             int speedCar1 = car1.CalculateSpeed(car1.Driver);
             int speedCar2 = car2.CalculateSpeed(car2.Driver);
-
-
 
             if (speedCar1 > speedCar2)
             {

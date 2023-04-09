@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Puncher\\Desktop\\Home5\\Home5\\Home5.csproj": {}
+    "C:\\Users\\Puncher\\Desktop\\s e a v u s\\3. C# Sharp --------B a s i c\\Homeworks\\C_Sharp_Homeworks\\Homework4\\Home5\\Home5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Puncher\\Desktop\\Home5\\Home5\\Home5.csproj": {
+    "C:\\Users\\Puncher\\Desktop\\s e a v u s\\3. C# Sharp --------B a s i c\\Homeworks\\C_Sharp_Homeworks\\Homework4\\Home5\\Home5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Puncher\\Desktop\\Home5\\Home5\\Home5.csproj",
+        "projectUniqueName": "C:\\Users\\Puncher\\Desktop\\s e a v u s\\3. C# Sharp --------B a s i c\\Homeworks\\C_Sharp_Homeworks\\Homework4\\Home5\\Home5.csproj",
         "projectName": "Home5",
-        "projectPath": "C:\\Users\\Puncher\\Desktop\\Home5\\Home5\\Home5.csproj",
+        "projectPath": "C:\\Users\\Puncher\\Desktop\\s e a v u s\\3. C# Sharp --------B a s i c\\Homeworks\\C_Sharp_Homeworks\\Homework4\\Home5\\Home5.csproj",
         "packagesPath": "C:\\Users\\Puncher\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Puncher\\Desktop\\Home5\\Home5\\obj\\",
+        "outputPath": "C:\\Users\\Puncher\\Desktop\\s e a v u s\\3. C# Sharp --------B a s i c\\Homeworks\\C_Sharp_Homeworks\\Homework4\\Home5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
